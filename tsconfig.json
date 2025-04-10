@@ -22,6 +22,8 @@
     "paths": {
       "@/*": ["src/*"],                      // Maps @ to the src folder
       "@components/*": ["src/components/*"],  // Maps @components to src/components
+      "@pages/*": ["src/pages/*"],            // Maps @pages to src/pages
+      "@utils/*": ["src/utils/*"],            // Maps @utils to src/utils
       "@lib/*": ["src/lib/*"],                // Maps @lib to src/lib
       "@hooks/*": ["src/hooks/*"],            // Maps @hooks to src/hooks
       "@styles/*": ["src/styles/*"],          // Maps @styles to src/styles
