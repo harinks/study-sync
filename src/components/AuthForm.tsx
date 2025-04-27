@@ -37,7 +37,7 @@ export default function AuthForm() {
           id="email"
           name="email"
           type="email"
-          autoComplete="email"
+          // autoComplete="email"
           required
           value={email}
           onChange={(e) => setEmail(e.target.value)}
